@@ -1,0 +1,6 @@
+pragma solidity ^0.5.16; 
+
+contract FORECAST{
+    string public name = "FRCST";
+    string public symbol = "FCST";
+    uint256 public totalSupply = 44000000; // 44 million tokens
